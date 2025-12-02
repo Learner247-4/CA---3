@@ -1,2 +1,2 @@
-# CA---3
-CA - 3 repository
+# University Management System
+University Management System repository
